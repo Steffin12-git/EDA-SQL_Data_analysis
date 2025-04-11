@@ -1,27 +1,37 @@
-# EDA-SQL_Data_Analysis
+# Advanced Data Analysis Project
 
-This repository is dedicated to practicing and learning Exploratory Data Analysis (EDA) using SQL. The primary resource for this learning journey is the following tutorial:
+This repository is dedicated to practicing and learning advanced data analysis using SQL. The project is based on the comprehensive YouTube tutorial by **Data With Baraa**, which walks through an end-to-end analysis pipeline.
 
-[SQL Exploratory Data Analysis (EDA) Project - YouTube](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
+🎥 **Tutorial Reference**:  
+[🔗 Advanced SQL Data Analysis Project | Data With Baraa](https://www.youtube.com/watch?v=2jGhQpbzHes)
 
-## Repository Contents
+---
 
-- `queries.sql`: SQL queries used throughout the analysis  
-- `datasets/`: Folder containing sample datasets used in the project
+## 🛠️ Getting Started
 
-## Getting Started
-
-1. Ensure a SQL-compatible database (like MySQL or PostgreSQL) is installed.
-2. Clone the repository:
+1. Install SQL Server or any compatible SQL RDBMS.
+2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/EDA-SQL_Data_Analysis.git
+   git clone https://github.com/Steffin12-git/EDA-SQL_Data_analysis.git
    ```
-3. Load the dataset into your database.
-4. Run the SQL queries to explore and analyze the data.
+3. Import the dataset(s) provided in the `datasets/` folder.
+4. Run the SQL scripts in `queries.sql` to explore and transform the data.
+5. Use the final views to plug into a BI tool of your choice for building dashboards.
 
-## Credits
+---
 
-Tutorial by Maven Analytics  
-📺 [Watch the video](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
+## 📊 Objective
 
+The main goal of this project is to:
+- Perform deep exploration across all tables
+- Derive meaningful metrics and KPIs
+- Classify and segment customers and products
+- Create views for smooth integration with BI tools
+
+---
+
+## 🙌 Credits
+
+- **Data With Baraa** for the original tutorial and dataset walkthrough  
+  📺 [Watch the full video](https://www.youtube.com/watch?v=2jGhQpbzHes)
 
